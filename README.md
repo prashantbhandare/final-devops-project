@@ -1,2 +1,2 @@
-# abctechnologies code xxxxx
+# abctechnologies code
 "# assignment1" t
