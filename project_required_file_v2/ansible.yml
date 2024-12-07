@@ -15,7 +15,7 @@
         - name: start a container
           community.docker.docker_container:
              name: abc-application
-             image: salvathshaik/abctechnologies
+             image: prashantbhandare/abctechnologies
              state: started
              ports:
                  - 1234:8080
